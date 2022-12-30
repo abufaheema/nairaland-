@@ -1,0 +1,198 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f6f6ec;
+}
+
+#card1{
+    background-color: #e8ece0;
+    border-radius: 9px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.25);
+
+    .card-body{
+
+        #img1{
+            width: 246px;
+            height: 24px;
+        }
+        a{
+            text-decoration: none;
+            color: #636464;
+            font-weight: lighter;
+        
+        }
+        a:hover{
+            text-decoration: underline;
+            text-decoration-color: black;
+            text-decoration-thickness: 1px;
+        }
+        #reg{
+            color: #181870;
+            font-weight: bold;
+        }
+
+        input[type=text]{
+            margin-left: 250px;
+            border-radius: 50px;
+        }
+
+        #btn1{
+            background-color: white;
+        }
+
+
+    }    
+}
+
+#card2{
+    background-color: #e8ece0;
+    border-radius: 9px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.25);
+
+    .card-body{
+        a{
+            text-decoration: none;
+            color: #181870;
+            font-weight: bold;
+            font-size: 15px;
+        }
+        a:hover{
+            text-decoration: underline;
+            text-decoration-color: black;
+            text-decoration-thickness: 1px;
+        }
+        h5{
+            color: #220000;
+            background-color: #e8ece0;
+            font-weight: bold;
+        }
+        
+        .span{
+            background-color: #f6f6ec;
+            padding: 4px;
+            
+                            
+        }
+        .span2{
+            background-color: #e8ece0;
+            padding: 4px;
+        }
+
+        .span3{
+            background-color: #f6f6ec;
+            padding: 4px;
+
+            
+        
+        }
+        
+
+    
+
+    }
+
+}
+
+.row{
+
+    .col-12{
+        .card{
+            border-radius: 10px;
+            box-shadow: 10px 10px 10px rgba(0,0,0,0.25);
+
+            img{
+                border-radius: 10px;
+            }
+        }
+    }
+
+}
+
+
+#news{
+    .card{
+        .card-body{
+            h6{
+                span{
+                    a{
+                     color: #181870;
+                     font-weight: bold;
+                     text-decoration: none;
+                    }
+                    a:hover{
+                        text-decoration: underline;
+            text-decoration-color: black;
+              text-decoration-thickness: 1px;
+                    }
+                    
+                }
+            }
+        }
+    }
+}
+
+#sectionID{
+    .card-body{
+        a{
+            color: #181870;
+                     font-weight: bold;
+                     text-decoration: none;
+                    .bi-chevron-double-right, .bi-chevron-double-left{
+                        font-size: 10px;
+                    }
+        }
+        a:hover{
+            text-decoration: underline;
+            text-decoration-color: black;
+              text-decoration-thickness: 1px;
+        }
+    }
+}
+
+#card3{
+    .card-body{
+        span{
+            a{
+                color: #181870;
+                     font-weight: bold;
+                     text-decoration: none;
+            }
+            a:hover{
+                text-decoration: underline;
+                text-decoration-color: black;
+                  text-decoration-thickness: 1px;
+            }
+        }
+    }
+}
+
+#divide{
+    a{
+        color: #181870;
+                     font-weight: bold;
+                     text-decoration: none;
+    }
+    a:hover{
+        text-decoration: underline;
+        text-decoration-color: black;
+          text-decoration-thickness: 1px;
+    }
+}
+
+#lastcard{
+    .card-body{
+        input[type=text]{
+            margin-left: 250px;
+            border-radius: 50px;
+        }
+
+        #btn1{
+            background-color: white;
+            font-weight: 100;
+        }
+    }
+}
+
